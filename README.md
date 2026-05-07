@@ -1,2 +1,1 @@
-# Blinki-Board
-My HackClub blinki board project for statis. This is my first ever custom hardware project designing my own PCB and using KiCad
+My blinki board that has 10 lights and is a pretty simple design but its pretty cool 

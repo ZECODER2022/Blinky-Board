@@ -14,3 +14,5 @@ My blinky board is the simple design that resembles a planet and its rings. It h
 **Photo of Schemadic Below:**
 
 <img width="793" height="457" alt="Screenshot 2026-05-14 at 8 09 05 AM" src="https://github.com/user-attachments/assets/0e783164-ff09-428a-bd97-4975544ab509" />
+
+This was my first ever custom PCB it came back with no issues when i ran a check and im pretty happy with how it came out!

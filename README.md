@@ -3,7 +3,7 @@
 My blinky board is the simple design that resembles a planet and its rings. It has 10 Leds arranged to blink in a circular pattern on the planet design. The Power input for it is on the back for easy to hide cable management to make it look cool.
 
 **List of Parts:**
- - This project uses just the parts that come inside the hackclub blinky board bundle. I not sure the exact price to get the PCB produced.
+ - This project uses just the parts that come inside the hackclub blinky board bundle. For the PCB production it is estamated around $24.
 
 <img width="893" height="391" alt="Screenshot 2026-05-14 at 8 09 51 AM" src="https://github.com/user-attachments/assets/bb10234b-65a8-46ac-89f1-11158dbc9756" />
 
